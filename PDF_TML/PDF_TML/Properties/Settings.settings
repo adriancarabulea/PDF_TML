@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PDF_TML.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Ini_TML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PDF_TML.ini</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

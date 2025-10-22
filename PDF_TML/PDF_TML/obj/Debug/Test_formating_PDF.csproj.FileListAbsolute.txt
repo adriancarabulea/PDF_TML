@@ -1,0 +1,12 @@
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\bin\Debug\Test_formating_PDF.exe
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\bin\Debug\Test_formating_PDF.pdb
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\bin\Debug\itextsharp.dll
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\bin\Debug\itextsharp.pdfa.dll
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\bin\Debug\itextsharp.xtra.dll
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\bin\Debug\PdfSharp.dll
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\obj\Debug\Test_formating_PDF.csprojResolveAssemblyReference.cache
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\obj\Debug\Test_formating_PDF.Properties.Resources.resources
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\obj\Debug\Test_formating_PDF.csproj.GenerateResource.Cache
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\obj\Debug\Test_formating_PDF.exe
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\obj\Debug\Test_formating_PDF.pdb
+D:\sigma project\__Sigma_PDF_DWG\Test_apl\Test_formating_PDF\obj\Debug\Test_formating_PDF.Form1.resources
